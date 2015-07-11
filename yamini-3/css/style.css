@@ -1,0 +1,84 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: Tahoma;
+	text-decoration: bold;
+	text-decoration: underline;
+	color: #68B3AF;
+}
+
+h2 {
+	font-family: Tahoma;
+	text-decoration: bold;
+	text-decoration: underline;
+	color: #87BDB1;
+}
+
+#personal {
+	border-radius: 40%;
+}
+
+.navigator {
+	border: 5px solid #87BDB1;
+}
+
+.navigator a {
+	font-size: 18px;
+}
+.resume {
+font-family: Tahoma;
+color: #AACCB1;
+width: 300px;
+margin: 0 auto;
+text-align: center;
+}
+
+.experience {
+	border-top: 5px double #D3E2B6;
+	border-bottom: 5px double #D3E2B6;
+}
+
+.education {
+	border-bottom: 5px double #D3E2B6;
+}
+
+.other {
+	border-bottom: 5px double #D3E2B6;
+}
+
+.resume1 {
+	border-bottom: 5px double #D3E2B6;
+}
+
+p {
+	font-size: 20px;
+	font-family: Tahoma;
+	font-color: #AACCB1;
+}
+
+#content {
+	font-size: 16px;
+	font-family: Tahoma;
+	font-color: #AACCB1;
+}
+
+.homepage {
+	font-size: 20px;
+	font-family: Tahoma;
+	color: #AACCB1;
+}
+
+.contact {
+	text-decoration: italic;
+	font-size: 30px;
+	font-family: Tahoma;
+	color: #AACCB1;
+}
+
+.projects {
+	font-size: 20px;
+	font-family: Tahoma;
+	color: #AACCB1;
+}
