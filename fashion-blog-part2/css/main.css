@@ -1,0 +1,177 @@
+body {
+	font-family: Lato;
+	padding: 54px;
+}
+h1 {
+	color: #DD0000;
+	font-weight: normal;
+	display: inline;
+}
+
+h4 {
+	color: black;
+	font-weight: normal;
+	display: inline;
+}
+
+#navigation {
+display: block;
+margin-right: 0px;
+}
+
+ .nav {
+ background-color: black;
+ float:left;
+ margin-left:1px;
+ text-align:center;
+ padding:20px 0px;
+ color: white;
+ width:16%;
+ }
+
+ img {
+	width: 100%;
+}
+
+.date {
+	color: #dddddd;
+	font-weight: normal;
+}
+
+.article {
+	color: black;
+	font-weight: normal;
+}
+
+.nav1 {
+	color: #dddddd;
+}
+
+.nav1:hover {
+	color: black;
+}
+
+.nav2 {
+	color: #DD0000;
+	text-decoration: none;
+}
+
+#copyright {
+	color: #bbbbbb;
+}
+
+.nav2:hover {
+	color: black;
+	text-decoration: none;
+}
+
+#nav_2 {
+	color: #dddddd;
+}
+
+.continue {
+	color: #DD0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
+
+.continue:hover {
+	color: #aa0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
+
+.continue1 {
+	text-align: right;
+}
+
+#article1 {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+#article2 {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+#leftcolumn {
+	width: 50%;
+	float: left;
+	border-right: 50px;
+}
+
+#rightcolumn {
+	margin-top: 40px;
+	margin-left: 30px;
+	width: 40%;
+	float: right;
+}
+
+.header {
+	font-weight: bold;
+	color: #bbbbbb;
+}
+
+#piece1 {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+#piece2 {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#piece3 {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+
+#ad {
+	width: 200px;
+	text-align: center;
+}
+
+#more1 {
+	color: #DD0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
+
+#more1:hover {
+	color: #aa0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
+
+#more {
+	text-align: right;
+}
+
+#popular {
+	font-weight: bolder;
+	color: #bbbbbb;
+}
+
+#name {
+	color: #DD0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#name:hover {
+	color: #aa0000;
+	text-decoration: none;
+	font-weight: normal;
+}
