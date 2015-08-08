@@ -1,0 +1,65 @@
+body {
+	font-family: "Oxygen";
+	background-color: #86BBDE;
+}
+
+#header {
+	margin-left: 50px;
+}
+
+#contact {
+	float: left;
+	margin-left: 100px;
+	color: #0C0766;
+	font-size: 50px;
+}
+
+#pics {
+	float: right;
+	margin-right: 150px;
+}
+
+a {
+	color: #0C0766;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #555191;
+	text-decoration: none;
+}
+
+h3 {
+	color: #0C0766;
+	font-size: 30px;
+	text-decoration: underline;
+	font-size: 60px;
+}
+
+h1 {
+	text-decoration: none;
+	font-size: 55px;
+	color: #0C0766;
+	font-weight: bolder;
+	font-size: 50px;
+	text-align: center;
+}
+
+#content {
+	float: left;
+	color: #0C0766;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+
+#mainpic {
+	float: right;
+	color: #0C0766;
+	margin-right: 60px;
+	margin-top: 30px;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
